@@ -1,1 +1,3 @@
-[]
+- table:
+    schema: portfolio
+    name: transaction
