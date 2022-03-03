@@ -1,0 +1,6 @@
+*.env
+.idea
+contentful/node_modules
+**/node_modules
+.vscode
+**/yarn-error.log
