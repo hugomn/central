@@ -1,6 +1,6 @@
 # Central Hasura GraphQL Engine
 
-[Hasura docs](https://hasura.io/docs/1.0/graphql/core/index.html)
+[Hasura docs](https://hasura.io/docs)
 
 ## Getting started
 
